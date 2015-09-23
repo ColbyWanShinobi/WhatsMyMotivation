@@ -1,0 +1,10 @@
+## Interface: 60200
+## Title: What's My Motivation?
+## Notes: What's my character's motivation for this quest?
+## Author: ColbyWanShinobi
+## Version: 1.0
+## X-Category: Interface Enhancements
+## SavedVariables: gsNpcData, gsQuestData, gsNpcGreetings
+## SavedVariablesPerCharacter: gsNpcDataChar, gsQuestDataChar
+
+WhatsMyMotivation.lua
